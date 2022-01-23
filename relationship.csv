@@ -1,0 +1,871 @@
+source,target,word_count,text_size_mb,weight
+API Gateway,Amplify,4,1.678,2.384
+API Gateway,Athena,0,1.678,0.0
+API Gateway,Aurora,0,1.678,0.0
+API Gateway,Cloud9,0,1.678,0.0
+API Gateway,CloudFront,49,1.678,29.205
+API Gateway,CloudWatch,183,1.678,109.071
+API Gateway,Cognito,163,1.678,97.151
+API Gateway,DynamoDB,38,1.678,22.649
+API Gateway,EC2,24,1.678,14.304
+API Gateway,ECS,32,1.678,19.073
+API Gateway,EFS,0,1.678,0.0
+API Gateway,EKS,0,1.678,0.0
+API Gateway,ELB,0,1.678,0.0
+API Gateway,EMR,0,1.678,0.0
+API Gateway,Elastic Beanstalk,0,1.678,0.0
+API Gateway,Glue,0,1.678,0.0
+API Gateway,IAM,498,1.678,296.817
+API Gateway,KMS,0,1.678,0.0
+API Gateway,Lake Formation,0,1.678,0.0
+API Gateway,Lambda,1220,1.678,727.141
+API Gateway,RDS,0,1.678,0.0
+API Gateway,Redshift,0,1.678,0.0
+API Gateway,Route 53,4,1.678,2.384
+API Gateway,S3,168,1.678,100.131
+API Gateway,SNS,21,1.678,12.516
+API Gateway,SQS,17,1.678,10.132
+API Gateway,SageMaker,0,1.678,0.0
+API Gateway,VPC,332,1.678,197.878
+API Gateway,X-Ray,112,1.678,66.754
+Amplify,API Gateway,0,0.269,0.0
+Amplify,Athena,2,0.269,7.44
+Amplify,Aurora,0,0.269,0.0
+Amplify,Cloud9,0,0.269,0.0
+Amplify,CloudFront,26,0.269,96.714
+Amplify,CloudWatch,31,0.269,115.313
+Amplify,Cognito,9,0.269,33.478
+Amplify,DynamoDB,1,0.269,3.72
+Amplify,EC2,9,0.269,33.478
+Amplify,ECS,0,0.269,0.0
+Amplify,EFS,0,0.269,0.0
+Amplify,EKS,0,0.269,0.0
+Amplify,ELB,0,0.269,0.0
+Amplify,EMR,0,0.269,0.0
+Amplify,Elastic Beanstalk,0,0.269,0.0
+Amplify,Glue,0,0.269,0.0
+Amplify,IAM,181,0.269,673.278
+Amplify,KMS,5,0.269,18.599
+Amplify,Lake Formation,0,0.269,0.0
+Amplify,Lambda,17,0.269,63.236
+Amplify,RDS,0,0.269,0.0
+Amplify,Redshift,0,0.269,0.0
+Amplify,Route 53,16,0.269,59.516
+Amplify,S3,28,0.269,104.153
+Amplify,SNS,9,0.269,33.478
+Amplify,SQS,0,0.269,0.0
+Amplify,SageMaker,0,0.269,0.0
+Amplify,VPC,1,0.269,3.72
+Amplify,X-Ray,0,0.269,0.0
+Athena,API Gateway,0,1.276,0.0
+Athena,Amplify,0,1.276,0.0
+Athena,Aurora,1,1.276,0.784
+Athena,Cloud9,0,1.276,0.0
+Athena,CloudFront,33,1.276,25.861
+Athena,CloudWatch,115,1.276,90.12
+Athena,Cognito,0,1.276,0.0
+Athena,DynamoDB,12,1.276,9.404
+Athena,EC2,3,1.276,2.351
+Athena,ECS,0,1.276,0.0
+Athena,EFS,0,1.276,0.0
+Athena,EKS,0,1.276,0.0
+Athena,ELB,5,1.276,3.918
+Athena,EMR,35,1.276,27.428
+Athena,Elastic Beanstalk,0,1.276,0.0
+Athena,Glue,578,1.276,452.952
+Athena,IAM,387,1.276,303.274
+Athena,KMS,59,1.276,46.236
+Athena,Lake Formation,248,1.276,194.346
+Athena,Lambda,281,1.276,220.207
+Athena,RDS,3,1.276,2.351
+Athena,Redshift,19,1.276,14.889
+Athena,Route 53,0,1.276,0.0
+Athena,S3,671,1.276,525.831
+Athena,SNS,34,1.276,26.644
+Athena,SQS,0,1.276,0.0
+Athena,SageMaker,33,1.276,25.861
+Athena,VPC,122,1.276,95.606
+Athena,X-Ray,0,1.276,0.0
+Aurora,API Gateway,0,4.065,0.0
+Aurora,Amplify,0,4.065,0.0
+Aurora,Athena,5,4.065,1.23
+Aurora,Cloud9,2,4.065,0.492
+Aurora,CloudFront,0,4.065,0.0
+Aurora,CloudWatch,480,4.065,118.081
+Aurora,Cognito,0,4.065,0.0
+Aurora,DynamoDB,2,4.065,0.492
+Aurora,EC2,180,4.065,44.28
+Aurora,ECS,2,4.065,0.492
+Aurora,EFS,0,4.065,0.0
+Aurora,EKS,0,4.065,0.0
+Aurora,ELB,0,4.065,0.0
+Aurora,EMR,1,4.065,0.246
+Aurora,Elastic Beanstalk,4,4.065,0.984
+Aurora,Glue,1,4.065,0.246
+Aurora,IAM,1210,4.065,297.663
+Aurora,KMS,243,4.065,59.779
+Aurora,Lake Formation,0,4.065,0.0
+Aurora,Lambda,412,4.065,101.353
+Aurora,RDS,3353,4.065,824.847
+Aurora,Redshift,8,4.065,1.968
+Aurora,Route 53,0,4.065,0.0
+Aurora,S3,988,4.065,243.051
+Aurora,SNS,41,4.065,10.086
+Aurora,SQS,0,4.065,0.0
+Aurora,SageMaker,249,4.065,61.255
+Aurora,VPC,959,4.065,235.916
+Aurora,X-Ray,0,4.065,0.0
+Cloud9,API Gateway,20,1.116,17.917
+Cloud9,Amplify,0,1.116,0.0
+Cloud9,Athena,0,1.116,0.0
+Cloud9,Aurora,0,1.116,0.0
+Cloud9,CloudFront,2,1.116,1.792
+Cloud9,CloudWatch,31,1.116,27.771
+Cloud9,Cognito,1,1.116,0.896
+Cloud9,DynamoDB,81,1.116,72.562
+Cloud9,EC2,794,1.116,711.289
+Cloud9,ECS,0,1.116,0.0
+Cloud9,EFS,0,1.116,0.0
+Cloud9,EKS,0,1.116,0.0
+Cloud9,ELB,0,1.116,0.0
+Cloud9,EMR,0,1.116,0.0
+Cloud9,Elastic Beanstalk,3,1.116,2.687
+Cloud9,Glue,0,1.116,0.0
+Cloud9,IAM,484,1.116,433.582
+Cloud9,KMS,16,1.116,14.333
+Cloud9,Lake Formation,0,1.116,0.0
+Cloud9,Lambda,174,1.116,155.874
+Cloud9,RDS,1,1.116,0.896
+Cloud9,Redshift,2,1.116,1.792
+Cloud9,Route 53,0,1.116,0.0
+Cloud9,S3,279,1.116,249.937
+Cloud9,SNS,18,1.116,16.125
+Cloud9,SQS,14,1.116,12.542
+Cloud9,SageMaker,0,1.116,0.0
+Cloud9,VPC,358,1.116,320.707
+Cloud9,X-Ray,0,1.116,0.0
+CloudFront,API Gateway,1,1.35,0.74
+CloudFront,Amplify,2,1.35,1.481
+CloudFront,Athena,3,1.35,2.221
+CloudFront,Aurora,0,1.35,0.0
+CloudFront,Cloud9,0,1.35,0.0
+CloudFront,CloudWatch,123,1.35,91.079
+CloudFront,Cognito,0,1.35,0.0
+CloudFront,DynamoDB,3,1.35,2.221
+CloudFront,EC2,47,1.35,34.803
+CloudFront,ECS,0,1.35,0.0
+CloudFront,EFS,0,1.35,0.0
+CloudFront,EKS,0,1.35,0.0
+CloudFront,ELB,4,1.35,2.962
+CloudFront,EMR,0,1.35,0.0
+CloudFront,Elastic Beanstalk,0,1.35,0.0
+CloudFront,Glue,0,1.35,0.0
+CloudFront,IAM,252,1.35,186.602
+CloudFront,KMS,7,1.35,5.183
+CloudFront,Lake Formation,0,1.35,0.0
+CloudFront,Lambda,256,1.35,189.564
+CloudFront,RDS,0,1.35,0.0
+CloudFront,Redshift,1,1.35,0.74
+CloudFront,Route 53,0,1.35,0.0
+CloudFront,S3,603,1.35,446.511
+CloudFront,SNS,10,1.35,7.405
+CloudFront,SQS,0,1.35,0.0
+CloudFront,SageMaker,0,1.35,0.0
+CloudFront,VPC,1,1.35,0.74
+CloudFront,X-Ray,1,1.35,0.74
+CloudWatch,API Gateway,27,1.994,13.542
+CloudWatch,Amplify,1,1.994,0.502
+CloudWatch,Athena,7,1.994,3.511
+CloudWatch,Aurora,8,1.994,4.012
+CloudWatch,Cloud9,0,1.994,0.0
+CloudWatch,CloudFront,4,1.994,2.006
+CloudWatch,Cognito,39,1.994,19.561
+CloudWatch,DynamoDB,30,1.994,15.047
+CloudWatch,EC2,600,1.994,300.931
+CloudWatch,ECS,528,1.994,264.819
+CloudWatch,EFS,0,1.994,0.0
+CloudWatch,EKS,310,1.994,155.481
+CloudWatch,ELB,14,1.994,7.022
+CloudWatch,EMR,5,1.994,2.508
+CloudWatch,Elastic Beanstalk,2,1.994,1.003
+CloudWatch,Glue,10,1.994,5.016
+CloudWatch,IAM,543,1.994,272.343
+CloudWatch,KMS,30,1.994,15.047
+CloudWatch,Lake Formation,0,1.994,0.0
+CloudWatch,Lambda,349,1.994,175.042
+CloudWatch,RDS,64,1.994,32.099
+CloudWatch,Redshift,8,1.994,4.012
+CloudWatch,Route 53,1,1.994,0.502
+CloudWatch,S3,202,1.994,101.313
+CloudWatch,SNS,123,1.994,61.691
+CloudWatch,SQS,15,1.994,7.523
+CloudWatch,SageMaker,5,1.994,2.508
+CloudWatch,VPC,178,1.994,89.276
+CloudWatch,X-Ray,127,1.994,63.697
+Cognito,API Gateway,39,0.951,41.015
+Cognito,Amplify,28,0.951,29.446
+Cognito,Athena,0,0.951,0.0
+Cognito,Aurora,0,0.951,0.0
+Cognito,Cloud9,0,0.951,0.0
+Cognito,CloudFront,4,0.951,4.207
+Cognito,CloudWatch,98,0.951,103.063
+Cognito,DynamoDB,15,0.951,15.775
+Cognito,EC2,8,0.951,8.413
+Cognito,ECS,0,0.951,0.0
+Cognito,EFS,0,0.951,0.0
+Cognito,EKS,0,0.951,0.0
+Cognito,ELB,0,0.951,0.0
+Cognito,EMR,0,0.951,0.0
+Cognito,Elastic Beanstalk,0,0.951,0.0
+Cognito,Glue,0,0.951,0.0
+Cognito,IAM,355,0.951,373.339
+Cognito,KMS,19,0.951,19.982
+Cognito,Lake Formation,0,0.951,0.0
+Cognito,Lambda,491,0.951,516.365
+Cognito,RDS,0,0.951,0.0
+Cognito,Redshift,1,0.951,1.052
+Cognito,Route 53,0,0.951,0.0
+Cognito,S3,27,0.951,28.395
+Cognito,SNS,54,0.951,56.79
+Cognito,SQS,1,0.951,1.052
+Cognito,SageMaker,1,0.951,1.052
+Cognito,VPC,1,0.951,1.052
+Cognito,X-Ray,0,0.951,0.0
+DynamoDB,API Gateway,0,2.536,0.0
+DynamoDB,Amplify,0,2.536,0.0
+DynamoDB,Athena,9,2.536,3.549
+DynamoDB,Aurora,0,2.536,0.0
+DynamoDB,Cloud9,0,2.536,0.0
+DynamoDB,CloudFront,0,2.536,0.0
+DynamoDB,CloudWatch,286,2.536,112.773
+DynamoDB,Cognito,48,2.536,18.927
+DynamoDB,EC2,155,2.536,61.118
+DynamoDB,ECS,8,2.536,3.154
+DynamoDB,EFS,0,2.536,0.0
+DynamoDB,EKS,0,2.536,0.0
+DynamoDB,ELB,0,2.536,0.0
+DynamoDB,EMR,70,2.536,27.602
+DynamoDB,Elastic Beanstalk,26,2.536,10.252
+DynamoDB,Glue,12,2.536,4.732
+DynamoDB,IAM,492,2.536,194.001
+DynamoDB,KMS,66,2.536,26.025
+DynamoDB,Lake Formation,7,2.536,2.76
+DynamoDB,Lambda,101,2.536,39.825
+DynamoDB,RDS,3,2.536,1.183
+DynamoDB,Redshift,18,2.536,7.098
+DynamoDB,Route 53,0,2.536,0.0
+DynamoDB,S3,205,2.536,80.834
+DynamoDB,SNS,38,2.536,14.984
+DynamoDB,SQS,0,2.536,0.0
+DynamoDB,SageMaker,0,2.536,0.0
+DynamoDB,VPC,162,2.536,63.878
+DynamoDB,X-Ray,0,2.536,0.0
+EC2,API Gateway,0,3.978,0.0
+EC2,Amplify,0,3.978,0.0
+EC2,Athena,0,3.978,0.0
+EC2,Aurora,2,3.978,0.503
+EC2,Cloud9,0,3.978,0.0
+EC2,CloudFront,0,3.978,0.0
+EC2,CloudWatch,474,3.978,119.152
+EC2,Cognito,0,3.978,0.0
+EC2,DynamoDB,1,3.978,0.251
+EC2,ECS,11,3.978,2.765
+EC2,EFS,65,3.978,16.339
+EC2,EKS,6,3.978,1.508
+EC2,ELB,2,3.978,0.503
+EC2,EMR,9,3.978,2.262
+EC2,Elastic Beanstalk,4,3.978,1.006
+EC2,Glue,0,3.978,0.0
+EC2,IAM,707,3.978,177.722
+EC2,KMS,298,3.978,74.91
+EC2,Lake Formation,0,3.978,0.0
+EC2,Lambda,49,3.978,12.317
+EC2,RDS,27,3.978,6.787
+EC2,Redshift,10,3.978,2.514
+EC2,Route 53,5,3.978,1.257
+EC2,S3,287,3.978,72.145
+EC2,SNS,84,3.978,21.116
+EC2,SQS,4,3.978,1.006
+EC2,SageMaker,3,3.978,0.754
+EC2,VPC,940,3.978,236.293
+EC2,X-Ray,0,3.978,0.0
+ECS,API Gateway,0,2.088,0.0
+ECS,Amplify,0,2.088,0.0
+ECS,Athena,0,2.088,0.0
+ECS,Aurora,0,2.088,0.0
+ECS,Cloud9,0,2.088,0.0
+ECS,CloudFront,0,2.088,0.0
+ECS,CloudWatch,428,2.088,204.982
+ECS,Cognito,0,2.088,0.0
+ECS,DynamoDB,3,2.088,1.437
+ECS,EC2,918,2.088,439.659
+ECS,EFS,142,2.088,68.008
+ECS,EKS,1,2.088,0.479
+ECS,ELB,12,2.088,5.747
+ECS,EMR,0,2.088,0.0
+ECS,Elastic Beanstalk,0,2.088,0.0
+ECS,Glue,0,2.088,0.0
+ECS,IAM,1045,2.088,500.483
+ECS,KMS,30,2.088,14.368
+ECS,Lake Formation,0,2.088,0.0
+ECS,Lambda,32,2.088,15.326
+ECS,RDS,0,2.088,0.0
+ECS,Redshift,0,2.088,0.0
+ECS,Route 53,0,2.088,0.0
+ECS,S3,104,2.088,49.809
+ECS,SNS,21,2.088,10.058
+ECS,SQS,4,2.088,1.916
+ECS,SageMaker,0,2.088,0.0
+ECS,VPC,464,2.088,222.224
+ECS,X-Ray,12,2.088,5.747
+EFS,API Gateway,0,0.758,0.0
+EFS,Amplify,0,0.758,0.0
+EFS,Athena,0,0.758,0.0
+EFS,Aurora,0,0.758,0.0
+EFS,Cloud9,0,0.758,0.0
+EFS,CloudFront,0,0.758,0.0
+EFS,CloudWatch,126,0.758,166.324
+EFS,Cognito,0,0.758,0.0
+EFS,DynamoDB,0,0.758,0.0
+EFS,EC2,647,0.758,854.06
+EFS,ECS,5,0.758,6.6
+EFS,EKS,2,0.758,2.64
+EFS,ELB,2,0.758,2.64
+EFS,EMR,0,0.758,0.0
+EFS,Elastic Beanstalk,0,0.758,0.0
+EFS,Glue,0,0.758,0.0
+EFS,IAM,307,0.758,405.25
+EFS,KMS,40,0.758,52.801
+EFS,Lake Formation,0,0.758,0.0
+EFS,Lambda,8,0.758,10.56
+EFS,RDS,0,0.758,0.0
+EFS,Redshift,2,0.758,2.64
+EFS,Route 53,0,0.758,0.0
+EFS,S3,22,0.758,29.041
+EFS,SNS,7,0.758,9.24
+EFS,SQS,0,0.758,0.0
+EFS,SageMaker,0,0.758,0.0
+EFS,VPC,327,0.758,431.65
+EFS,X-Ray,0,0.758,0.0
+EKS,API Gateway,0,1.141,0.0
+EKS,Amplify,0,1.141,0.0
+EKS,Athena,0,1.141,0.0
+EKS,Aurora,0,1.141,0.0
+EKS,Cloud9,5,1.141,4.381
+EKS,CloudFront,0,1.141,0.0
+EKS,CloudWatch,58,1.141,50.816
+EKS,Cognito,0,1.141,0.0
+EKS,DynamoDB,1,1.141,0.876
+EKS,EC2,362,1.141,317.16
+EKS,ECS,5,1.141,4.381
+EKS,EFS,97,1.141,84.985
+EKS,ELB,6,1.141,5.257
+EKS,EMR,0,1.141,0.0
+EKS,Elastic Beanstalk,0,1.141,0.0
+EKS,Glue,0,1.141,0.0
+EKS,IAM,965,1.141,845.468
+EKS,KMS,54,1.141,47.311
+EKS,Lake Formation,0,1.141,0.0
+EKS,Lambda,0,1.141,0.0
+EKS,RDS,0,1.141,0.0
+EKS,Redshift,0,1.141,0.0
+EKS,Route 53,0,1.141,0.0
+EKS,S3,49,1.141,42.931
+EKS,SNS,1,1.141,0.876
+EKS,SQS,0,1.141,0.0
+EKS,SageMaker,0,1.141,0.0
+EKS,VPC,608,1.141,532.689
+EKS,X-Ray,3,1.141,2.628
+ELB,API Gateway,0,0.077,0.0
+ELB,Amplify,0,0.077,0.0
+ELB,Athena,0,0.077,0.0
+ELB,Aurora,0,0.077,0.0
+ELB,Cloud9,0,0.077,0.0
+ELB,CloudFront,0,0.077,0.0
+ELB,CloudWatch,3,0.077,39.09
+ELB,Cognito,0,0.077,0.0
+ELB,DynamoDB,0,0.077,0.0
+ELB,EC2,31,0.077,403.925
+ELB,ECS,3,0.077,39.09
+ELB,EFS,0,0.077,0.0
+ELB,EKS,0,0.077,0.0
+ELB,EMR,0,0.077,0.0
+ELB,Elastic Beanstalk,0,0.077,0.0
+ELB,Glue,0,0.077,0.0
+ELB,IAM,40,0.077,521.193
+ELB,KMS,0,0.077,0.0
+ELB,Lake Formation,0,0.077,0.0
+ELB,Lambda,0,0.077,0.0
+ELB,RDS,0,0.077,0.0
+ELB,Redshift,0,0.077,0.0
+ELB,Route 53,0,0.077,0.0
+ELB,S3,5,0.077,65.149
+ELB,SNS,0,0.077,0.0
+ELB,SQS,0,0.077,0.0
+ELB,SageMaker,0,0.077,0.0
+ELB,VPC,48,0.077,625.432
+ELB,X-Ray,0,0.077,0.0
+EMR,API Gateway,5,1.362,3.672
+EMR,Amplify,0,1.362,0.0
+EMR,Athena,0,1.362,0.0
+EMR,Aurora,0,1.362,0.0
+EMR,Cloud9,0,1.362,0.0
+EMR,CloudFront,0,1.362,0.0
+EMR,CloudWatch,132,1.362,96.947
+EMR,Cognito,0,1.362,0.0
+EMR,DynamoDB,17,1.362,12.486
+EMR,EC2,793,1.362,582.415
+EMR,ECS,1,1.362,0.734
+EMR,EFS,0,1.362,0.0
+EMR,EKS,120,1.362,88.133
+EMR,ELB,0,1.362,0.0
+EMR,Elastic Beanstalk,0,1.362,0.0
+EMR,Glue,33,1.362,24.237
+EMR,IAM,612,1.362,449.481
+EMR,KMS,99,1.362,72.71
+EMR,Lake Formation,179,1.362,131.466
+EMR,Lambda,9,1.362,6.61
+EMR,RDS,5,1.362,3.672
+EMR,Redshift,0,1.362,0.0
+EMR,Route 53,0,1.362,0.0
+EMR,S3,680,1.362,499.423
+EMR,SNS,1,1.362,0.734
+EMR,SQS,7,1.362,5.141
+EMR,SageMaker,0,1.362,0.0
+EMR,VPC,276,1.362,202.707
+EMR,X-Ray,0,1.362,0.0
+Elastic Beanstalk,API Gateway,0,2.183,0.0
+Elastic Beanstalk,Amplify,0,2.183,0.0
+Elastic Beanstalk,Athena,0,2.183,0.0
+Elastic Beanstalk,Aurora,10,2.183,4.582
+Elastic Beanstalk,Cloud9,0,2.183,0.0
+Elastic Beanstalk,CloudFront,21,2.183,9.621
+Elastic Beanstalk,CloudWatch,361,2.183,165.395
+Elastic Beanstalk,Cognito,1,2.183,0.458
+Elastic Beanstalk,DynamoDB,92,2.183,42.151
+Elastic Beanstalk,EC2,1039,2.183,476.027
+Elastic Beanstalk,ECS,42,2.183,19.243
+Elastic Beanstalk,EFS,38,2.183,17.41
+Elastic Beanstalk,EKS,0,2.183,0.0
+Elastic Beanstalk,ELB,35,2.183,16.036
+Elastic Beanstalk,EMR,0,2.183,0.0
+Elastic Beanstalk,Glue,0,2.183,0.0
+Elastic Beanstalk,IAM,231,2.183,105.835
+Elastic Beanstalk,KMS,0,2.183,0.0
+Elastic Beanstalk,Lake Formation,0,2.183,0.0
+Elastic Beanstalk,Lambda,5,2.183,2.291
+Elastic Beanstalk,RDS,364,2.183,166.77
+Elastic Beanstalk,Redshift,0,2.183,0.0
+Elastic Beanstalk,Route 53,2,2.183,0.916
+Elastic Beanstalk,S3,329,2.183,150.734
+Elastic Beanstalk,SNS,101,2.183,46.274
+Elastic Beanstalk,SQS,99,2.183,45.358
+Elastic Beanstalk,SageMaker,0,2.183,0.0
+Elastic Beanstalk,VPC,423,2.183,193.801
+Elastic Beanstalk,X-Ray,63,2.183,28.864
+Glue,API Gateway,0,2.049,0.0
+Glue,Amplify,0,2.049,0.0
+Glue,Athena,63,2.049,30.741
+Glue,Aurora,5,2.049,2.44
+Glue,Cloud9,0,2.049,0.0
+Glue,CloudFront,0,2.049,0.0
+Glue,CloudWatch,193,2.049,94.175
+Glue,Cognito,0,2.049,0.0
+Glue,DynamoDB,90,2.049,43.916
+Glue,EC2,198,2.049,96.615
+Glue,ECS,0,2.049,0.0
+Glue,EFS,0,2.049,0.0
+Glue,EKS,0,2.049,0.0
+Glue,ELB,0,2.049,0.0
+Glue,EMR,11,2.049,5.367
+Glue,Elastic Beanstalk,0,2.049,0.0
+Glue,IAM,552,2.049,269.351
+Glue,KMS,128,2.049,62.458
+Glue,Lake Formation,53,2.049,25.862
+Glue,Lambda,21,2.049,10.247
+Glue,RDS,46,2.049,22.446
+Glue,Redshift,100,2.049,48.795
+Glue,Route 53,0,2.049,0.0
+Glue,S3,907,2.049,442.574
+Glue,SNS,25,2.049,12.199
+Glue,SQS,54,2.049,26.35
+Glue,SageMaker,96,2.049,46.844
+Glue,VPC,322,2.049,157.121
+Glue,X-Ray,0,2.049,0.0
+IAM,API Gateway,3,2.211,1.357
+IAM,Amplify,5,2.211,2.261
+IAM,Athena,5,2.211,2.261
+IAM,Aurora,1,2.211,0.452
+IAM,Cloud9,1,2.211,0.452
+IAM,CloudFront,14,2.211,6.331
+IAM,CloudWatch,50,2.211,22.611
+IAM,Cognito,136,2.211,61.501
+IAM,DynamoDB,103,2.211,46.578
+IAM,EC2,475,2.211,214.803
+IAM,ECS,6,2.211,2.713
+IAM,EFS,1,2.211,0.452
+IAM,EKS,2,2.211,0.904
+IAM,ELB,0,2.211,0.0
+IAM,EMR,10,2.211,4.522
+IAM,Elastic Beanstalk,2,2.211,0.904
+IAM,Glue,2,2.211,0.904
+IAM,KMS,56,2.211,25.324
+IAM,Lake Formation,1,2.211,0.452
+IAM,Lambda,57,2.211,25.776
+IAM,RDS,67,2.211,30.298
+IAM,Redshift,10,2.211,4.522
+IAM,Route 53,0,2.211,0.0
+IAM,S3,536,2.211,242.388
+IAM,SNS,47,2.211,21.254
+IAM,SQS,55,2.211,24.872
+IAM,SageMaker,3,2.211,1.357
+IAM,VPC,106,2.211,47.935
+IAM,X-Ray,3,2.211,1.357
+KMS,API Gateway,0,1.236,0.0
+KMS,Amplify,0,1.236,0.0
+KMS,Athena,2,1.236,1.619
+KMS,Aurora,1,1.236,0.809
+KMS,Cloud9,0,1.236,0.0
+KMS,CloudFront,0,1.236,0.0
+KMS,CloudWatch,112,1.236,90.647
+KMS,Cognito,4,1.236,3.237
+KMS,DynamoDB,135,1.236,109.262
+KMS,EC2,73,1.236,59.083
+KMS,ECS,0,1.236,0.0
+KMS,EFS,1,1.236,0.809
+KMS,EKS,2,1.236,1.619
+KMS,ELB,0,1.236,0.0
+KMS,EMR,37,1.236,29.946
+KMS,Elastic Beanstalk,0,1.236,0.0
+KMS,Glue,2,1.236,1.619
+KMS,IAM,714,1.236,577.876
+KMS,Lake Formation,0,1.236,0.0
+KMS,Lambda,5,1.236,4.047
+KMS,RDS,28,1.236,22.662
+KMS,Redshift,29,1.236,23.471
+KMS,Route 53,0,1.236,0.0
+KMS,S3,198,1.236,160.251
+KMS,SNS,12,1.236,9.712
+KMS,SQS,3,1.236,2.428
+KMS,SageMaker,0,1.236,0.0
+KMS,VPC,186,1.236,150.539
+KMS,X-Ray,1,1.236,0.809
+Lake Formation,API Gateway,0,0.616,0.0
+Lake Formation,Amplify,0,0.616,0.0
+Lake Formation,Athena,72,0.616,116.836
+Lake Formation,Aurora,0,0.616,0.0
+Lake Formation,Cloud9,0,0.616,0.0
+Lake Formation,CloudFront,0,0.616,0.0
+Lake Formation,CloudWatch,9,0.616,14.605
+Lake Formation,Cognito,0,0.616,0.0
+Lake Formation,DynamoDB,0,0.616,0.0
+Lake Formation,EC2,2,0.616,3.245
+Lake Formation,ECS,0,0.616,0.0
+Lake Formation,EFS,0,0.616,0.0
+Lake Formation,EKS,0,0.616,0.0
+Lake Formation,ELB,0,0.616,0.0
+Lake Formation,EMR,29,0.616,47.059
+Lake Formation,Elastic Beanstalk,0,0.616,0.0
+Lake Formation,Glue,207,0.616,335.905
+Lake Formation,IAM,394,0.616,639.355
+Lake Formation,KMS,41,0.616,66.532
+Lake Formation,Lambda,0,0.616,0.0
+Lake Formation,RDS,4,0.616,6.491
+Lake Formation,Redshift,60,0.616,97.364
+Lake Formation,Route 53,0,0.616,0.0
+Lake Formation,S3,357,0.616,579.314
+Lake Formation,SNS,1,0.616,1.623
+Lake Formation,SQS,0,0.616,0.0
+Lake Formation,SageMaker,0,0.616,0.0
+Lake Formation,VPC,51,0.616,82.759
+Lake Formation,X-Ray,0,0.616,0.0
+Lambda,API Gateway,115,1.848,62.224
+Lambda,Amplify,0,1.848,0.0
+Lambda,Athena,0,1.848,0.0
+Lambda,Aurora,2,1.848,1.082
+Lambda,Cloud9,19,1.848,10.281
+Lambda,CloudFront,19,1.848,10.281
+Lambda,CloudWatch,368,1.848,199.118
+Lambda,Cognito,34,1.848,18.397
+Lambda,DynamoDB,167,1.848,90.361
+Lambda,EC2,53,1.848,28.677
+Lambda,ECS,0,1.848,0.0
+Lambda,EFS,58,1.848,31.383
+Lambda,EKS,0,1.848,0.0
+Lambda,ELB,0,1.848,0.0
+Lambda,EMR,0,1.848,0.0
+Lambda,Elastic Beanstalk,1,1.848,0.541
+Lambda,Glue,0,1.848,0.0
+Lambda,IAM,330,1.848,178.557
+Lambda,KMS,40,1.848,21.643
+Lambda,Lake Formation,0,1.848,0.0
+Lambda,RDS,56,1.848,30.301
+Lambda,Redshift,0,1.848,0.0
+Lambda,Route 53,0,1.848,0.0
+Lambda,S3,372,1.848,201.282
+Lambda,SNS,158,1.848,85.491
+Lambda,SQS,194,1.848,104.97
+Lambda,SageMaker,0,1.848,0.0
+Lambda,VPC,447,1.848,241.863
+Lambda,X-Ray,299,1.848,161.783
+RDS,API Gateway,1,4.864,0.206
+RDS,Amplify,0,4.864,0.0
+RDS,Athena,4,4.864,0.822
+RDS,Aurora,337,4.864,69.29
+RDS,Cloud9,0,4.864,0.0
+RDS,CloudFront,0,4.864,0.0
+RDS,CloudWatch,403,4.864,82.86
+RDS,Cognito,0,4.864,0.0
+RDS,DynamoDB,0,4.864,0.0
+RDS,EC2,664,4.864,136.524
+RDS,ECS,2,4.864,0.411
+RDS,EFS,0,4.864,0.0
+RDS,EKS,0,4.864,0.0
+RDS,ELB,0,4.864,0.0
+RDS,EMR,0,4.864,0.0
+RDS,Elastic Beanstalk,4,4.864,0.822
+RDS,Glue,0,4.864,0.0
+RDS,IAM,1194,4.864,245.497
+RDS,KMS,282,4.864,57.982
+RDS,Lake Formation,0,4.864,0.0
+RDS,Lambda,169,4.864,34.748
+RDS,Redshift,4,4.864,0.822
+RDS,Route 53,1,4.864,0.206
+RDS,S3,960,4.864,197.384
+RDS,SNS,41,4.864,8.43
+RDS,SQS,0,4.864,0.0
+RDS,SageMaker,0,4.864,0.0
+RDS,VPC,1535,4.864,315.609
+RDS,X-Ray,0,4.864,0.0
+Redshift,API Gateway,0,3.087,0.0
+Redshift,Amplify,0,3.087,0.0
+Redshift,Athena,66,3.087,21.378
+Redshift,Aurora,91,3.087,29.476
+Redshift,Cloud9,0,3.087,0.0
+Redshift,CloudFront,0,3.087,0.0
+Redshift,CloudWatch,0,3.087,0.0
+Redshift,Cognito,0,3.087,0.0
+Redshift,DynamoDB,100,3.087,32.392
+Redshift,EC2,47,3.087,15.224
+Redshift,ECS,1,3.087,0.324
+Redshift,EFS,0,3.087,0.0
+Redshift,EKS,0,3.087,0.0
+Redshift,ELB,0,3.087,0.0
+Redshift,EMR,99,3.087,32.068
+Redshift,Elastic Beanstalk,0,3.087,0.0
+Redshift,Glue,96,3.087,31.096
+Redshift,IAM,402,3.087,130.214
+Redshift,KMS,48,3.087,15.548
+Redshift,Lake Formation,68,3.087,22.026
+Redshift,Lambda,138,3.087,44.7
+Redshift,RDS,58,3.087,18.787
+Redshift,Route 53,0,3.087,0.0
+Redshift,S3,747,3.087,241.965
+Redshift,SNS,0,3.087,0.0
+Redshift,SQS,0,3.087,0.0
+Redshift,SageMaker,102,3.087,33.039
+Redshift,VPC,86,3.087,27.857
+Redshift,X-Ray,0,3.087,0.0
+Route 53,API Gateway,43,1.518,28.334
+Route 53,Amplify,0,1.518,0.0
+Route 53,Athena,0,1.518,0.0
+Route 53,Aurora,0,1.518,0.0
+Route 53,Cloud9,0,1.518,0.0
+Route 53,CloudFront,166,1.518,109.383
+Route 53,CloudWatch,293,1.518,193.067
+Route 53,Cognito,0,1.518,0.0
+Route 53,DynamoDB,1,1.518,0.659
+Route 53,EC2,171,1.518,112.677
+Route 53,ECS,6,1.518,3.954
+Route 53,EFS,0,1.518,0.0
+Route 53,EKS,0,1.518,0.0
+Route 53,ELB,89,1.518,58.645
+Route 53,EMR,0,1.518,0.0
+Route 53,Elastic Beanstalk,77,1.518,50.738
+Route 53,Glue,41,1.518,27.016
+Route 53,IAM,144,1.518,94.886
+Route 53,KMS,11,1.518,7.248
+Route 53,Lake Formation,0,1.518,0.0
+Route 53,Lambda,0,1.518,0.0
+Route 53,RDS,1,1.518,0.659
+Route 53,Redshift,1,1.518,0.659
+Route 53,S3,240,1.518,158.144
+Route 53,SNS,27,1.518,17.791
+Route 53,SQS,0,1.518,0.0
+Route 53,SageMaker,0,1.518,0.0
+Route 53,VPC,366,1.518,241.169
+Route 53,X-Ray,0,1.518,0.0
+S3,API Gateway,0,3.04,0.0
+S3,Amplify,16,3.04,5.263
+S3,Athena,66,3.04,21.709
+S3,Aurora,0,3.04,0.0
+S3,Cloud9,0,3.04,0.0
+S3,CloudFront,258,3.04,84.862
+S3,CloudWatch,416,3.04,136.832
+S3,Cognito,0,3.04,0.0
+S3,DynamoDB,0,3.04,0.0
+S3,EC2,32,3.04,10.526
+S3,ECS,0,3.04,0.0
+S3,EFS,1,3.04,0.329
+S3,EKS,0,3.04,0.0
+S3,ELB,3,3.04,0.987
+S3,EMR,3,3.04,0.987
+S3,Elastic Beanstalk,1,3.04,0.329
+S3,Glue,3,3.04,0.987
+S3,IAM,1087,3.04,357.541
+S3,KMS,565,3.04,185.842
+S3,Lake Formation,0,3.04,0.0
+S3,Lambda,956,3.04,314.451
+S3,RDS,0,3.04,0.0
+S3,Redshift,4,3.04,1.316
+S3,Route 53,2,3.04,0.658
+S3,SNS,116,3.04,38.155
+S3,SQS,101,3.04,33.221
+S3,SageMaker,2,3.04,0.658
+S3,VPC,306,3.04,100.651
+S3,X-Ray,32,3.04,10.526
+SNS,API Gateway,16,0.838,19.095
+SNS,Amplify,0,0.838,0.0
+SNS,Athena,9,0.838,10.741
+SNS,Aurora,0,0.838,0.0
+SNS,Cloud9,0,0.838,0.0
+SNS,CloudFront,3,0.838,3.58
+SNS,CloudWatch,107,0.838,127.695
+SNS,Cognito,5,0.838,5.967
+SNS,DynamoDB,29,0.838,34.609
+SNS,EC2,56,0.838,66.831
+SNS,ECS,4,0.838,4.774
+SNS,EFS,1,0.838,1.193
+SNS,EKS,4,0.838,4.774
+SNS,ELB,0,0.838,0.0
+SNS,EMR,0,0.838,0.0
+SNS,Elastic Beanstalk,4,0.838,4.774
+SNS,Glue,0,0.838,0.0
+SNS,IAM,181,0.838,216.007
+SNS,KMS,48,0.838,57.284
+SNS,Lake Formation,0,0.838,0.0
+SNS,Lambda,177,0.838,211.234
+SNS,RDS,5,0.838,5.967
+SNS,Redshift,43,0.838,51.317
+SNS,Route 53,0,0.838,0.0
+SNS,S3,152,0.838,181.398
+SNS,SQS,257,0.838,306.707
+SNS,SageMaker,2,0.838,2.387
+SNS,VPC,98,0.838,116.954
+SNS,X-Ray,7,0.838,8.354
+SQS,API Gateway,0,0.397,0.0
+SQS,Amplify,0,0.397,0.0
+SQS,Athena,0,0.397,0.0
+SQS,Aurora,0,0.397,0.0
+SQS,Cloud9,0,0.397,0.0
+SQS,CloudFront,0,0.397,0.0
+SQS,CloudWatch,68,0.397,171.396
+SQS,Cognito,0,0.397,0.0
+SQS,DynamoDB,2,0.397,5.041
+SQS,EC2,47,0.397,118.465
+SQS,ECS,0,0.397,0.0
+SQS,EFS,0,0.397,0.0
+SQS,EKS,0,0.397,0.0
+SQS,ELB,0,0.397,0.0
+SQS,EMR,0,0.397,0.0
+SQS,Elastic Beanstalk,0,0.397,0.0
+SQS,Glue,0,0.397,0.0
+SQS,IAM,137,0.397,345.313
+SQS,KMS,50,0.397,126.027
+SQS,Lake Formation,0,0.397,0.0
+SQS,Lambda,45,0.397,113.424
+SQS,RDS,0,0.397,0.0
+SQS,Redshift,0,0.397,0.0
+SQS,Route 53,0,0.397,0.0
+SQS,S3,43,0.397,108.383
+SQS,SNS,30,0.397,75.616
+SQS,SageMaker,0,0.397,0.0
+SQS,VPC,77,0.397,194.081
+SQS,X-Ray,16,0.397,40.328
+SageMaker,API Gateway,3,5.557,0.54
+SageMaker,Amplify,0,5.557,0.0
+SageMaker,Athena,59,5.557,10.616
+SageMaker,Aurora,0,5.557,0.0
+SageMaker,Cloud9,0,5.557,0.0
+SageMaker,CloudFront,1,5.557,0.18
+SageMaker,CloudWatch,451,5.557,81.153
+SageMaker,Cognito,145,5.557,26.091
+SageMaker,DynamoDB,7,5.557,1.26
+SageMaker,EC2,162,5.557,29.15
+SageMaker,ECS,2,5.557,0.36
+SageMaker,EFS,60,5.557,10.796
+SageMaker,EKS,37,5.557,6.658
+SageMaker,ELB,0,5.557,0.0
+SageMaker,EMR,153,5.557,27.531
+SageMaker,Elastic Beanstalk,0,5.557,0.0
+SageMaker,Glue,30,5.557,5.398
+SageMaker,IAM,906,5.557,163.025
+SageMaker,KMS,155,5.557,27.891
+SageMaker,Lake Formation,2,5.557,0.36
+SageMaker,Lambda,383,5.557,68.917
+SageMaker,RDS,5,5.557,0.9
+SageMaker,Redshift,64,5.557,11.516
+SageMaker,Route 53,7,5.557,1.26
+SageMaker,S3,1427,5.557,256.773
+SageMaker,SNS,175,5.557,31.489
+SageMaker,SQS,38,5.557,6.838
+SageMaker,VPC,769,5.557,138.373
+SageMaker,X-Ray,0,5.557,0.0
+VPC,API Gateway,0,0.793,0.0
+VPC,Amplify,0,0.793,0.0
+VPC,Athena,27,0.793,34.065
+VPC,Aurora,8,0.793,10.093
+VPC,Cloud9,1,0.793,1.262
+VPC,CloudFront,1,0.793,1.262
+VPC,CloudWatch,105,0.793,132.475
+VPC,Cognito,0,0.793,0.0
+VPC,DynamoDB,4,0.793,5.047
+VPC,EC2,531,0.793,669.947
+VPC,ECS,1,0.793,1.262
+VPC,EFS,0,0.793,0.0
+VPC,EKS,3,0.793,3.785
+VPC,ELB,0,0.793,0.0
+VPC,EMR,3,0.793,3.785
+VPC,Elastic Beanstalk,0,0.793,0.0
+VPC,Glue,0,0.793,0.0
+VPC,IAM,215,0.793,271.259
+VPC,KMS,9,0.793,11.355
+VPC,Lake Formation,0,0.793,0.0
+VPC,Lambda,9,0.793,11.355
+VPC,RDS,7,0.793,8.832
+VPC,Redshift,11,0.793,13.878
+VPC,Route 53,20,0.793,25.233
+VPC,S3,127,0.793,160.232
+VPC,SNS,5,0.793,6.308
+VPC,SQS,0,0.793,0.0
+VPC,SageMaker,0,0.793,0.0
+VPC,X-Ray,0,0.793,0.0
+X-Ray,API Gateway,44,0.677,65.022
+X-Ray,Amplify,0,0.677,0.0
+X-Ray,Athena,1,0.677,1.478
+X-Ray,Aurora,0,0.677,0.0
+X-Ray,Cloud9,0,0.677,0.0
+X-Ray,CloudFront,1,0.677,1.478
+X-Ray,CloudWatch,103,0.677,152.212
+X-Ray,Cognito,7,0.677,10.344
+X-Ray,DynamoDB,82,0.677,121.178
+X-Ray,EC2,99,0.677,146.301
+X-Ray,ECS,63,0.677,93.1
+X-Ray,EFS,0,0.677,0.0
+X-Ray,EKS,10,0.677,14.778
+X-Ray,ELB,0,0.677,0.0
+X-Ray,EMR,0,0.677,0.0
+X-Ray,Elastic Beanstalk,114,0.677,168.467
+X-Ray,Glue,0,0.677,0.0
+X-Ray,IAM,189,0.677,279.301
+X-Ray,KMS,13,0.677,19.211
+X-Ray,Lake Formation,0,0.677,0.0
+X-Ray,Lambda,220,0.677,325.112
+X-Ray,RDS,1,0.677,1.478
+X-Ray,Redshift,0,0.677,0.0
+X-Ray,Route 53,0,0.677,0.0
+X-Ray,S3,58,0.677,85.711
+X-Ray,SNS,83,0.677,122.656
+X-Ray,SQS,46,0.677,67.978
+X-Ray,SageMaker,0,0.677,0.0
+X-Ray,VPC,43,0.677,63.545
